@@ -1,0 +1,6 @@
+This file exists as a proof of concept. 
+You can move other files into the client's folder.
+Then you can transfer those new files, if you navigate with the correct file name in the url.
+
+If this is in the host's directory, you may delete it and request another file upload 
+(with the same url as in the readme)
